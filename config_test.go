@@ -1,9 +1,9 @@
 package guerrilla
 
 import (
-	"github.com/flashmob/go-guerrilla/backends"
-	"github.com/flashmob/go-guerrilla/log"
-	"github.com/flashmob/go-guerrilla/tests/testcert"
+	"github.com/squash/go-guerrilla/backends"
+	"github.com/squash/go-guerrilla/log"
+	"github.com/squash/go-guerrilla/tests/testcert"
 	"io/ioutil"
 	"os"
 	"strings"

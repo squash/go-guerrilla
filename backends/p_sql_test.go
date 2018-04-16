@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/flashmob/go-guerrilla/log"
-	"github.com/flashmob/go-guerrilla/mail"
+	"github.com/squash/go-guerrilla/log"
+	"github.com/squash/go-guerrilla/mail"
 
 	_ "github.com/go-sql-driver/mysql"
 )

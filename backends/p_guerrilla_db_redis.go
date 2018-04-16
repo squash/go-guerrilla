@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/flashmob/go-guerrilla/mail"
+	"github.com/squash/go-guerrilla/mail"
 	"github.com/garyburd/redigo/redis"
 )
 

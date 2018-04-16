@@ -20,9 +20,9 @@ import (
 
 	"time"
 
-	"github.com/flashmob/go-guerrilla"
-	"github.com/flashmob/go-guerrilla/backends"
-	"github.com/flashmob/go-guerrilla/log"
+	"github.com/squash/go-guerrilla"
+	"github.com/squash/go-guerrilla/backends"
+	"github.com/squash/go-guerrilla/log"
 
 	"bufio"
 
@@ -35,7 +35,7 @@ import (
 
 	"os"
 
-	"github.com/flashmob/go-guerrilla/tests/testcert"
+	"github.com/squash/go-guerrilla/tests/testcert"
 )
 
 type TestConfig struct {

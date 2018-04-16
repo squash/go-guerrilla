@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/flashmob/go-guerrilla/log"
-	"github.com/flashmob/go-guerrilla/mail"
-	"github.com/flashmob/go-guerrilla/response"
+	"github.com/squash/go-guerrilla/log"
+	"github.com/squash/go-guerrilla/mail"
+	"github.com/squash/go-guerrilla/response"
 	"runtime/debug"
 	"strings"
 )

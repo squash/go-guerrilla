@@ -5,13 +5,13 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/flashmob/go-guerrilla/mail"
+	"github.com/squash/go-guerrilla/mail"
 
 	"math/big"
 	"net"
 	"runtime/debug"
 
-	"github.com/flashmob/go-guerrilla/response"
+	"github.com/squash/go-guerrilla/response"
 )
 
 // ----------------------------------------------------------------------------------

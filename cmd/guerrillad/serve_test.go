@@ -13,11 +13,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/flashmob/go-guerrilla"
-	"github.com/flashmob/go-guerrilla/backends"
-	"github.com/flashmob/go-guerrilla/log"
-	test "github.com/flashmob/go-guerrilla/tests"
-	"github.com/flashmob/go-guerrilla/tests/testcert"
+	"github.com/squash/go-guerrilla"
+	"github.com/squash/go-guerrilla/backends"
+	"github.com/squash/go-guerrilla/log"
+	test "github.com/squash/go-guerrilla/tests"
+	"github.com/squash/go-guerrilla/tests/testcert"
 	"github.com/spf13/cobra"
 )
 

@@ -3,9 +3,9 @@ package guerrilla
 import (
 	"bufio"
 	"fmt"
-	"github.com/flashmob/go-guerrilla/backends"
-	"github.com/flashmob/go-guerrilla/log"
-	"github.com/flashmob/go-guerrilla/mail"
+	"github.com/squash/go-guerrilla/backends"
+	"github.com/squash/go-guerrilla/log"
+	"github.com/squash/go-guerrilla/mail"
 	"io/ioutil"
 	"net"
 	"os"
